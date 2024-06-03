@@ -1,0 +1,10 @@
+.dropdown-item,
+.container {
+  color: #6c757d;
+}
+img {
+  margin-right: 15px;
+}
+form {
+  border-radius: 5%;
+}
